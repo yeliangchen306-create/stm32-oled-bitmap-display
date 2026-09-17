@@ -52,8 +52,6 @@
 
 ## 仓库目录
 
-仓库只保留本项目会用到的文件，没有加入原工程中的 LED、按键、编译缓存等无关内容。
-
 ```text
 stm32-oled-bitmap-display
 ├── Hardware
