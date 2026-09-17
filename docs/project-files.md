@@ -37,5 +37,3 @@ OLED 基础驱动、字模和显示函数参考了 B 站江协科技教程；卡
 ## `Project.uvprojx`
 
 Keil 工程文件。双击它可以直接打开项目。
-
-GitHub 版本已经移除了原工程中没有使用的 LED、Key 和 Delay 模块引用。
