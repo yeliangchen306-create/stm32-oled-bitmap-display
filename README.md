@@ -80,7 +80,6 @@ stm32-oled-bitmap-display
 └── README.md
 ```
 
-## 蓝色链接：进一步了解
 
 - [主要代码和函数的简单说明](docs/code-guide.md)
 - [卡通点阵图是怎样制作的，以及如何更换图案](docs/change-picture.md)
