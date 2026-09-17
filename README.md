@@ -79,7 +79,7 @@ stm32-oled-bitmap-display
 
 - [主要代码和函数的简单说明](docs/code-guide.md)
 - [卡通点阵图是怎样制作的，以及如何更换图案](docs/change-picture.md)
-- [工程中的各类文件分别有什么作用](docs/project-files.md)
+- [工程中的各类文件作用](docs/project-files.md)
 - [查看 `main.c`](User/main.c)
 - [查看 `OLED.c`](Hardware/OLED.c)
 - [查看 `OLED.h`](Hardware/OLED.h)
