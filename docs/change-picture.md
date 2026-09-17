@@ -92,7 +92,7 @@ python tools/image_to_oled.py my_picture.png bitmap.txt --threshold 190
 
 得到干净线稿后，再使用上面的 Python 工具转换。
 
-## 显示效果不理想怎么办
+## 显示效果不理想解决方案
 
 | 问题 | 调整方法 |
 |---|---|
