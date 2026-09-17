@@ -39,20 +39,3 @@ OLED 基础驱动、字模和显示函数参考了 B 站江协科技教程；卡
 Keil 工程文件。双击它可以直接打开项目。
 
 GitHub 版本已经移除了原工程中没有使用的 LED、Key 和 Delay 模块引用。
-
-## 没有上传的文件
-
-以下内容属于编译产物或个人开发环境文件，没有必要放到 GitHub：
-
-```text
-Objects/
-Listings/
-DebugConfig/
-*.axf
-*.hex
-*.bin
-*.uvguix.*
-```
-
-这些文件可以由 Keil 重新生成，上传后反而会让仓库显得杂乱。
-
